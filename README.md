@@ -1,5 +1,4 @@
 # Localized-Retail-Demand-Forecasting-Using-Climate-in-Canada
-# Localized Retail Demand Forecasting Using Climate and Consumer Trends
 
 ##  Project Overview
 

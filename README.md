@@ -20,4 +20,4 @@ This project develops a data-driven forecasting system to predict retail sales a
 *   **Forecasting Model:** Facebook Prophet
 *   **Data Processing & Analysis:** Pandas, NumPy, Scikit-learn, Statsmodels
 *   **Visualization:** Matplotlib, Seaborn
-* 
+

@@ -1,4 +1,4 @@
-# Localized-Retail-Demand-Forecasting-Using-Climate-in-Canada
+# Canadian Retail Demand Forecasting Platform
 
 ##  Project Overview
 
